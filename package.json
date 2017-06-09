@@ -1,8 +1,8 @@
 {
-  "name": "gulp-swagger",
-  "version": "1.0.1",
-  "homepage": "http://github.com/gersongoulart/gulp-swagger",
-  "description": "Gulp plugin that parses Swagger specs in JSON or YAML format, validates against the official Swagger 2.0 schema, dereferences all $ref pointers, including pointers to external files and generates client-side API code.",
+  "name": "@gradient/gulp-swagger-bundle",
+  "version": "1.0.0",
+  "homepage": "http://github.com/gradient/gulp-swagger-bundle",
+  "description": "Gulp plugin which bundles swagger API docs",
   "main": "./index.js",
   "devDependencies": {
     "gulp": "^3.9.1"
@@ -10,23 +10,24 @@
   "dependencies": {
     "circular-json": "^0.3.1",
     "gulp-util": "^3.0.7",
-    "swagger-js-codegen": "^1.7.0",
     "swagger-parser": "^3.4.1",
-    "swagger-tools": "^0.10.1",
     "through2": "^2.0.1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gersongoulart/gulp-swagger.git"
+    "url": "git://github.com/gradient/gulp-swagger-bundle.git"
   },
   "keywords": [
     "gulp",
     "plugin",
     "gulpplugin",
     "swagger",
-    "codegen"
+    "bundle"
   ],
-  "author": "Gerson Goulart <gerson.goulart@gmail.com>",
+  "author": "Gradient Ltd <info@gurn.io>",
+  "contributors": [
+    "Gerson Goulart <gerson.goulart@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "http://github.com/gersongoulart/gulp-swagger/issues"
