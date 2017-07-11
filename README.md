@@ -6,7 +6,7 @@
 | Description | [Gulp][gulp] plugin that bundles [Swagger][swagger]. |
 | Node Version | >= 0.8 |
 
-> This is a fork of (gulp-swagger)[https://github.com/gersongoulart/gulp-swagger], it has been stripped down to run a super efficient bundle process for a smaller output file. If you'd like more validation features, see the original.
+> This is a fork of [gulp-swagger](https://github.com/gersongoulart/gulp-swagger), it has been stripped down to run a super efficient bundle process for a smaller output file. If you'd like more validation features, see the original.
 
 ## Install
 
