@@ -1,6 +1,6 @@
 {
   "name": "@gradient/gulp-swagger-bundle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "http://github.com/gradient/gulp-swagger-bundle",
   "description": "Gulp plugin which bundles swagger API docs",
   "main": "./index.js",
