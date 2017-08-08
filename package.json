@@ -24,13 +24,13 @@
     "swagger",
     "bundle"
   ],
-  "author": "Gradient Ltd <info@gurn.io>",
+  "author": "Gradient Ltd <oss@gradient.co>",
   "contributors": [
     "Gerson Goulart <gerson.goulart@gmail.com>"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "http://github.com/gersongoulart/gulp-swagger/issues"
+    "url": "http://github.com/gradient/gulp-swagger-bundle/issues"
   },
   "engines": {
     "node": ">=0.8"
